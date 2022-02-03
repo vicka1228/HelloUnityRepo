@@ -1,15 +1,16 @@
-# Your Documentation Title
+# HelloUnity
 
-A description might go here.
+Just getting started with Unity and doing the Hello World equivalent, albeit a little more complicated
 
-## Sub Heading
+## Crazy Balls and Coloured Columns
 
-Some more text.
+Watch a non-interactive game of a ball randomly moving around and acquiring the colour of the columns it touches. It's very satisfying.
 
-### Another sub sub heading
+### GitHub Repo
 
-[This is a link](#)
+[https://github.com/vicka1228/HelloUnityRepo](#)
 
 ![This is an image](https://c.tenor.com/gc2lhAqqhTUAAAAC/cat-hi.gif)
 
-*Note that if your images are stored git lfs, you can't access them via relative path in github pages.  You should get the full link to the image by viewing it in your remote repo and copying the link*
+Keeping the cat GIF because it is cute. Have fun!
+
