@@ -1,11 +1,11 @@
 # Your project title
 
-A short description.
+A short and fun introductory game, "Hello Unity"
 
 ## Technical setup instructions
 
-Some special setup requirements. 
+Should work with Unity Hub with Unity 2020.3.x LTS
 
 ## Special controls 
 
-or other technical need to know things that are crucial to successfully operate/navigate the experience
+No controls for now, just sit back and watch a crazy ball rolling around and changing colours (and maybe jumping out of the screen)
